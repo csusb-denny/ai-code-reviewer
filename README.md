@@ -52,5 +52,3 @@ See [`ARCHITECTURE.md`](ARCHITECTURE.md) for a detailed component diagram and da
 
 MIT
 
----
-*Built with Claude Code*
