@@ -20,7 +20,7 @@ See [`ARCHITECTURE.md`](ARCHITECTURE.md) for a detailed component diagram and da
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/ai-code-reviewer.git
+   git clone https://github.com/csusb-denny/ai-code-reviewer.git
    cd ai-code-reviewer
    ```
 
