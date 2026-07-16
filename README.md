@@ -45,7 +45,7 @@ See [`ARCHITECTURE.md`](ARCHITECTURE.md) for a detailed component diagram and da
    ```
 
 5. **Deploy**
-   - Build the Docker image: `docker build -t ghcr.io/yourusername/ai-code-reviewer .`
+   - Build the Docker image: `docker build -t ghcr.io/csusb-denny/ai-code-reviewer .`
    - Use the provided GitHub Action workflow (`.github/workflows/review.yml`) to deploy as a bot.
 
 ## License
